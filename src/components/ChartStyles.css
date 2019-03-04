@@ -1,0 +1,30 @@
+
+.chart-title{
+  text-align: center;
+  color: rgb(162, 162, 162);
+  opacity: 1;
+  font-size: 24px;
+  font-family: sans-serif;
+  font-weight:100;
+  margin:18px 0px;
+}
+
+.x-axis {
+  color: rgb(162, 162, 162);
+  opacity: 1;
+  font-size: 12px;
+}
+
+.y-axis {
+  color: rgb(162, 162, 162);
+  opacity: 0.7;
+  font-size: 11px;
+}
+
+.grid-lines {
+  /*color: #34325c;*/
+  color: rgb(162, 162, 162);
+  stroke-dasharray: 10 10;
+  opacity: .1
+}
+
